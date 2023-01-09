@@ -1,0 +1,8 @@
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\bin\Debug\harjotus3.exe.config
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\bin\Debug\harjotus3.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\bin\Debug\harjotus3.pdb
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\obj\Debug\harjotus3 (KT).csproj.AssemblyReference.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\obj\Debug\harjotus3 (KT).csproj.SuggestedBindingRedirects.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\obj\Debug\harjotus3 (KT).csproj.CoreCompileInputs.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\obj\Debug\harjotus3.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjotus3\obj\Debug\harjotus3.pdb
