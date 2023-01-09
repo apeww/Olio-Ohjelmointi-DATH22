@@ -10,7 +10,16 @@ namespace oliohjelmointi
     {
         static void Main(string[] args)
         {
+            koira koira1 = new koira("Rekku", "Mopsi", 2); // luodaan uusi koira instanssi/olio
 
+            koira1.HaeTiedot();
+
+            koira Koira2 = new koira("Ali", "Bulldog", 5);
+
+            Koira2.HaeTiedot();
+
+            Koira2.Hauku();
+            koira1.Hauku();
         }
     }
 }

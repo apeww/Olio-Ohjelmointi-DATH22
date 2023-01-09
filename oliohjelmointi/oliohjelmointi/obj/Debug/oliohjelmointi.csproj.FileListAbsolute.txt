@@ -1,0 +1,8 @@
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\bin\Debug\oliohjelmointi.exe.config
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\bin\Debug\oliohjelmointi.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\bin\Debug\oliohjelmointi.pdb
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\obj\Debug\oliohjelmointi.csproj.AssemblyReference.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\obj\Debug\oliohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\obj\Debug\oliohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\obj\Debug\oliohjelmointi.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\oliohjelmointi\obj\Debug\oliohjelmointi.pdb
