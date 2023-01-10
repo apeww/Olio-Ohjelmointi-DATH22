@@ -1,0 +1,8 @@
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\obj\Debug\harjoitus 7.csproj.AssemblyReference.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\obj\Debug\harjoitus 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\obj\Debug\harjoitus 7.csproj.CoreCompileInputs.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\bin\Debug\harjoitus 7.exe.config
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\bin\Debug\harjoitus 7.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\bin\Debug\harjoitus 7.pdb
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\obj\Debug\harjoitus 7.exe
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 7\obj\Debug\harjoitus 7.pdb
