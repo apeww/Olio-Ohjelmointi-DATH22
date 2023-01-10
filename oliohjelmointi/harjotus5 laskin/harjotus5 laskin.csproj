@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8825B400-E91D-4F66-9F1B-52017F5C7D1E}</ProjectGuid>
+    <ProjectGuid>{F0A33407-02E3-431B-A06C-C32B386CFEC5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>harjotus4</RootNamespace>
-    <AssemblyName>harjotus4</AssemblyName>
+    <RootNamespace>harjotus5_laskin</RootNamespace>
+    <AssemblyName>harjotus5 laskin</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="albumi.cs" />
-    <Compile Include="StaattinenLuokka.cs" />
-    <Compile Include="kappale.cs" />
+    <Compile Include="StaattinenLaskin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -10,15 +10,19 @@ namespace harjotus4
     {
         static void Main(string[] args)
         {
-            albumi albumi = new albumi("Evolve", "Imagine Dragons", "Poprock");
+            StaattinenLuokka.StaattinenMetodi();
 
-            albumi.LisääKappale(new kappale("Next to me", "3:50"));
-            albumi.LisääKappale(new kappale("I Dont know why", "3:10"));
-            albumi.LisääKappale(new kappale("What ever it takes", "3:20"));
-            albumi.LisääKappale(new kappale("JOOOOOH", "3:10"));
-            albumi.LisääKappale(new kappale("Thunder", "3:50"));
+            float kilometriArvo = 143.50f;
+            float mailiArvo = StaattinenLuokka.KmToMiles(kilometriArvo + "km on mailesissa" + mailiArvo);
+            //albumi albumi = new albumi("Evolve", "Imagine Dragons", "Poprock");
 
-            albumi.TulostaTiedot();
+            //albumi.LisääKappale(new kappale("Next to me", "3:50"));
+            //albumi.LisääKappale(new kappale("I Dont know why", "3:10"));
+            //albumi.LisääKappale(new kappale("What ever it takes", "3:20"));
+            //albumi.LisääKappale(new kappale("JOOOOOH", "3:10"));
+            //albumi.LisääKappale(new kappale("Thunder", "3:50"));
+
+            //albumi.TulostaTiedot();
         }
     }
 }
