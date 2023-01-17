@@ -1,0 +1,3 @@
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 12\obj\Debug\harjoitus 12.csproj.AssemblyReference.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 12\obj\Debug\harjoitus 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\aapo.lehokas\source\repos\apeww\Olio-Ohjelmointi-DATH22\oliohjelmointi\harjoitus 12\obj\Debug\harjoitus 12.csproj.CoreCompileInputs.cache

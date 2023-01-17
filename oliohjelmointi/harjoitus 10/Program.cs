@@ -22,7 +22,7 @@ namespace harjoitus_11
             {
                 HenkilöSanakirja.Add(Andrew.Henkilötunnus, Andrew);
                 HenkilöSanakirja.Add(Aapo.Henkilötunnus, Aapo);
-                HenkilöSanakirja.Add(Aapo.Henkilötunnus, Aapo);
+
 
 
                 Console.WriteLine("Henkilöita Sanakirjassa: " + HenkilöSanakirja.Count);
